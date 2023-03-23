@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/castroHomepage/static/css/main.abd64e84.css",
-    "main.js": "/castroHomepage/static/js/main.29248977.js",
+    "main.js": "/castroHomepage/static/js/main.3628a195.js",
     "static/js/787.0b703362.chunk.js": "/castroHomepage/static/js/787.0b703362.chunk.js",
     "index.html": "/castroHomepage/index.html",
     "main.abd64e84.css.map": "/castroHomepage/static/css/main.abd64e84.css.map",
-    "main.29248977.js.map": "/castroHomepage/static/js/main.29248977.js.map",
+    "main.3628a195.js.map": "/castroHomepage/static/js/main.3628a195.js.map",
     "787.0b703362.chunk.js.map": "/castroHomepage/static/js/787.0b703362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.29248977.js"
+    "static/js/main.3628a195.js"
   ]
 }
