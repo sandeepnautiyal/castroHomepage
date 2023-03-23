@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/castroHomepage/static/css/main.abd64e84.css",
+    "main.js": "/castroHomepage/static/js/main.cb80a6e8.js",
+    "static/js/787.0b703362.chunk.js": "/castroHomepage/static/js/787.0b703362.chunk.js",
+    "index.html": "/castroHomepage/index.html",
+    "main.abd64e84.css.map": "/castroHomepage/static/css/main.abd64e84.css.map",
+    "main.cb80a6e8.js.map": "/castroHomepage/static/js/main.cb80a6e8.js.map",
+    "787.0b703362.chunk.js.map": "/castroHomepage/static/js/787.0b703362.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.cb80a6e8.js"
+  ]
+}
